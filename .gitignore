@@ -1,0 +1,10 @@
+# Editor directories
+.idea
+venv/
+venv*/
+/allure-behave*/
+/allure-report*/
+
+
+# Editor files
+behave.ini

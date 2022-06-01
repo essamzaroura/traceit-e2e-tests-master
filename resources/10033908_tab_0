@@ -1,0 +1,35 @@
+[
+  {
+    "DieId": "10033377",
+    "DieName": "Alder Lake PCH-S Die",
+    "DieDesignRevStep": "A0",
+    "DieInternalRevStep": "A0",
+    "SiProductID": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "SiProductInternalRevStep": "A0",
+    "SiProductExternalRevStep": "A0"
+  },
+  {
+    "DieId": "10033377",
+    "DieName": "Alder Lake PCH-S Die",
+    "DieDesignRevStep": "B0",
+    "DieInternalRevStep": "B0",
+    "SiProductID": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "SiProductInternalRevStep": "B0",
+    "SiProductExternalRevStep": "B0"
+  },
+  {
+    "DieId": "10033377",
+    "DieName": "Alder Lake PCH-S Die",
+    "DieDesignRevStep": "B1",
+    "DieInternalRevStep": "B1",
+    "SiProductID": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "SiProductInternalRevStep": "B1",
+    "SiProductExternalRevStep": "B1"
+  }
+]

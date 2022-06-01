@@ -1,0 +1,23 @@
+stages:
+  - test
+
+test:
+  tags: [Trace-IT-tag]
+  stage: test
+
+  before_script:
+    - set path=%path%;C:\python;C:\Python\Scripts;C:\Python\Scripts\behave.exe;C:\GitLab-Runner\allure-commandline-2.10.0\allure-2.10.0\bin
+    - pip install -r requirements.txt
+
+  script:
+    - behave -f allure_behave.formatter:AllureFormatter -o allure-%E2E_TESTS_ENVIRONMENT% ./features -D environment=%E2E_TESTS_ENVIRONMENT%
+
+  after_script:
+    - allure generate allure-%E2E_TESTS_ENVIRONMENT%
+    - allure open allure-report
+
+  artifacts:
+    when: always
+    paths:
+      - allure-report/
+    expire_in: 2 weeks

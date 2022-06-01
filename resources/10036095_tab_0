@@ -1,0 +1,32 @@
+[
+  {
+    "SiProductId": "10032307",
+    "SiProductName": "Ice Lake U 4+2",
+    "SiProductStatus": "Active",
+    "LiraEventId": "8859546",
+    "LiraId": "10036095",
+    "LiraName": "Ice Lake U 4+2 2C 2G M 17W superSKU",
+    "LiraStatus": "",
+    "FgMM": "957690",
+    "FgDescription": "",
+    "FgStatusCode": "",
+    "CPUID": "",
+    "IntRevStep": "X",
+    "ExternalStepping": "A0"
+  },
+  {
+    "SiProductId": "10032307",
+    "SiProductName": "Ice Lake U 4+2",
+    "SiProductStatus": "Active",
+    "LiraEventId": "8859546",
+    "LiraId": "10036095",
+    "LiraName": "Ice Lake U 4+2 2C 2G M 17W superSKU",
+    "LiraStatus": "",
+    "FgMM": "959627",
+    "FgDescription": "",
+    "FgStatusCode": "",
+    "CPUID": "",
+    "IntRevStep": "X",
+    "ExternalStepping": "A0"
+  }
+]

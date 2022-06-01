@@ -1,0 +1,26 @@
+[
+  {
+    "IpConfigID": "93883",
+    "IpConfigName": "Ice lake pGfx U 4+2 Windows Graphics Driver",
+    "IpConfigStatus": "New",
+    "IpFamilyID": "23704",
+    "IpFamily": "pGfx SS",
+    "IpGenID": "",
+    "IpProject": "",
+    "IrrId": "",
+    "MDGProjectID": "",
+    "IpSupplierName": "",
+    "ProductionLicenseStatus": "",
+    "EvaluationLicenseStatus": "",
+    "DieId": "",
+    "DieName": "",
+    "SiProductId": "",
+    "SiProductName": "",
+    "SiProductStatus": "",
+    "LiraEventId": "",
+    "LiraId": "",
+    "LiraName": "",
+    "FgMM": "",
+    "FgDescription": ""
+  }
+]

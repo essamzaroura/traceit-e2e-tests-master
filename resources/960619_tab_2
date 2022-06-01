@@ -1,0 +1,22 @@
+[
+  {
+    "FgMM": "960619",
+    "FgDescription": "64BIT MPU 8068403358811 2.800G 9MB FCLGA1151 SR3QT NO COMM TRAY 0",
+    "FgStatusCode": "AC",
+    "CPUBrandString": "Intel(R) Core(TM) i5-$8400%CPU @",
+    "SpecCodeConcat": "SR3QT",
+    "ProcessorNumber": "i5-8400",
+    "EpmName": "Intel® Core™ i5-8400 Processor (9M Cache, up to 4.00 GHz) FC-LGA14C, Tray",
+    "SiProductId": "10030698",
+    "SiProductName": "Coffee Lake S 6+2",
+    "SiProductStatus": "Active",
+    "DieId": "10033138",
+    "DieName": "Coffee Lake H/S/X 6+2",
+    "DssProductID": "",
+    "DssProductName": "",
+    "IpConfigID1": "",
+    "IpConfigName1": "",
+    "IpConfigID2": "",
+    "IpConfigName2": ""
+  }
+]

@@ -1,0 +1,10 @@
+behave==1.2.6
+selenium==3.141.0
+allure-python-commons==2.8.13
+allure-behave==2.8.13
+PyHamcrest==2.0.2
+pywin32==227
+pypiwin32==223
+core-e2e-tests==0.0.1
+requests==2.23.0
+

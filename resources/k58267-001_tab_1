@@ -1,0 +1,32 @@
+[
+  {
+    "BoardId": "K58267-001",
+    "Description": "ICE LAKE-MSFT X-EV-DVLP SY"
+	"SapAttribute": "CUSTOMER_MODEL_NAME",
+    "Value": "MSFT X"
+  },
+  {
+    "BoardId": "K58267-001",
+    "Description": "ICE LAKE-MSFT X-EV-DVLP SY"
+	"SapAttribute": "BUILD_NUMBER_CD",
+    "Value": "EV"
+  },
+  {
+    "BoardId": "K58267-001",
+    "Description": "ICE LAKE-MSFT X-EV-DVLP SY"
+	"SapAttribute": "PROD_DESCRIPTION_TXT",
+    "Value": "CUSTOMER REFERENCE DESIGN"
+  },
+  {
+    "BoardId": "K58267-001",
+    "Description": "ICE LAKE-MSFT X-EV-DVLP SY"
+	"SapAttribute": "MARKET_CODE_NAME",
+    "Value": "ICE LAKE"
+  },
+  {
+    "BoardId": "K58267-001",
+    "Description": "ICE LAKE-MSFT X-EV-DVLP SY"
+	"SapAttribute": "MM-PROD-CAT-SY",
+    "Value": "DEVELOPMENT SYSTEM"
+  }
+]

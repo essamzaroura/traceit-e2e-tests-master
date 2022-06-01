@@ -1,0 +1,26 @@
+[
+  {
+    "DieId": "10041091",
+    "DieName": "Comet Lake U/Y 4+2 With DDR4/LP3 Die",
+    "DieStatus": "Active",
+    "DieDesignRevStep": "B0",
+    "DieInternalRevStep": "B0",
+    "SiProductId": "",
+    "SiProductName": "",
+    "SiProductStatus": "",
+    "SiProductInternalRevStep": "",
+    "SiProductExternalRevStep": ""
+  },
+  {
+    "DieId": "10041091",
+    "DieName": "Comet Lake U/Y 4+2 With DDR4/LP3 Die",
+    "DieStatus": "Active",
+    "DieDesignRevStep": "A0",
+    "DieInternalRevStep": "A0",
+    "SiProductId": "",
+    "SiProductName": "",
+    "SiProductStatus": "",
+    "SiProductInternalRevStep": "",
+    "SiProductExternalRevStep": ""
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.I2S Audio Codec-REALTEK_ALC274S_10.0.10586.3011-CNL",
+    "IngredientName": "AudioCodecI2S",
+    "MarketingFeatureName": "Intel® Smart Sound Technology",
+    "IngredientBuildNumber": "REALTEK_ALC274S_10.0.10586.3011-CNL"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Microsoft Deployment Tools-10240",
+    "IngredientName": "MSFTDeploymentTools",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "10240"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Repackager-1.4.7.9",
+    "IngredientName": "Repackager",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.4.7.9"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Bios Config Tool-6.1",
+    "IngredientName": "BiosConfigTool",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "6.1"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Sx Cycling-1.1.2",
+    "IngredientName": "SxCycling",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.1.2"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Retimer Firmware-DBR_CDR_A0_REV4_V1",
+    "IngredientName": "retimer-fw",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "DBR_CDR_A0_REV4_V1"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.BKC Package Manager - BPM-1.0.0.26",
+    "IngredientName": "BPM",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.0.26"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.firmware.USB-C PD Controller-CYPD5225-96BZXI_NOTEBOOK_TBT_V2.7",
+    "IngredientName": "PD-FW",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CYPD5225-96BZXI_NOTEBOOK_TBT_V2.7"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.GNA-ICL_WIN10-RS2_01.00.00.1219_X64_14959_20170405",
+    "IngredientName": "GNA",
+    "MarketingFeatureName": "Intel Gaussian and Neural Accelerator Driver",
+    "IngredientBuildNumber": "ICL_WIN10-RS2_01.00.00.1219_X64_14959_20170405"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.HID Event Filter Driver-2.2.1.370_REV3",
+    "IngredientName": "HIDEventFilter",
+    "MarketingFeatureName": "Intel® HID Event Filter",
+    "IngredientBuildNumber": "2.2.1.370_REV3"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.DPTF-8.4.10799.5917",
+    "IngredientName": "DPTF",
+    "MarketingFeatureName": "Intel® Dynamic Platform and Thermal Framework (Intel® DPTF)",
+    "IngredientBuildNumber": "8.4.10799.5917"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Fingerprint Sensor-FPS_2.0.5.0",
+    "IngredientName": "FPS",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "FPS_2.0.5.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.SGX Platform SW-1.8.100.38781",
+    "IngredientName": "SGX",
+    "MarketingFeatureName": "Intel® Software Guard Extensions",
+    "IngredientBuildNumber": "1.8.100.38781"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Soundwire Audio Codec-REALTEK_SNDW_10.0.14393.9",
+    "IngredientName": "AudioCodecSNDW",
+    "MarketingFeatureName": "Intel® Smart Sound Technology",
+    "IngredientBuildNumber": "REALTEK_SNDW_10.0.14393.9"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Intel Trace Hub-ITH_62159_RX64_SIGNED_RS3_V2_CNL_CFL_ICL",
+    "IngredientName": "ITH",
+    "MarketingFeatureName": "Intel® Trace Hub (Intel® TH)",
+    "IngredientBuildNumber": "ITH_62159_RX64_SIGNED_RS3_V2_CNL_CFL_ICL"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.LPSS-30.100.1752.1_PUBSYM",
+    "IngredientName": "LPSS",
+    "MarketingFeatureName": "Intel® Serial IO",
+    "IngredientBuildNumber": "30.100.1752.1_PUBSYM"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Ice Lake.sw.firmware.IFWI-CNL-U6_BLUE_IFWI_2017_WW25_4_00",
+    "IngredientName": "IFWI",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL-U6_BLUE_IFWI_2017_WW25_4_00"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.CNL BIOS-CNL-CNL_RELEASE88_00_06",
+    "IngredientName": "BIOS",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL-CNL_RELEASE88_00_06"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.firmware.Discrete GNSS-GNSS_3.16299.1.1_KBL_KBLR_CNL_JSON",
+    "IngredientName": "GNSS",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "GNSS_3.16299.1.1_KBL_KBLR_CNL_JSON"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.7Zip To Image-1.0.0",
+    "IngredientName": "7ZipToImage",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Sigcheck-SIGCHECK-1.0",
+    "IngredientName": "Sigcheck",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "SIGCHECK-1.0"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.GBE-CNL-CNL_0.2",
+    "IngredientName": "GBE",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL-CNL_0.2"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.CNL CSME-12.0.0.1003",
+    "IngredientName": "CSME",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "12.0.0.1003"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.FSP Scope Tool-2.0.8",
+    "IngredientName": "FSPScope",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "2.0.8"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Firmware Flash Tool-1.0.142",
+    "IngredientName": "IntelFirmwareFlashTool",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.142"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Bin Scope-7.0.7000.0",
+    "IngredientName": "BinScope",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "7.0.7000.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Data Collection Telemetry Service-1.0.93.40745",
+    "IngredientName": "DCT",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.93.40745"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.other.ChipsetINF-10.1.1.45-RS3-FIXED",
+    "IngredientName": "Chipset",
+    "MarketingFeatureName": "Intel® Chipset",
+    "IngredientBuildNumber": "10.1.1.45-RS3-FIXED"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.7Zip-1.0.0",
+    "IngredientName": "7Zip",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.0"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.CNL EC-CNL_EC-01.24",
+    "IngredientName": "EC",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL_EC-01.24"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.OEMKEY-CNL-CNL_OEMKEY_7082",
+    "IngredientName": "OEMKEY",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL-CNL_OEMKEY_7082"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Camera-42.15063.0.5974",
+    "IngredientName": "Camera",
+    "MarketingFeatureName": "Intel MIPI CSI",
+    "IngredientBuildNumber": "42.15063.0.5974"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Discrete BT-IBTW2994_19.0.18021.2994__WIN10P",
+    "IngredientName": "BT",
+    "MarketingFeatureName": "Intel® PROSet_Wireless Software for Bluetooth® technology",
+    "IngredientBuildNumber": "IBTW2994_19.0.18021.2994__WIN10P"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Integrated Precision Touchpad-2.1.0.26-WW07",
+    "IngredientName": "iTouch",
+    "MarketingFeatureName": "Intel® Precise Touch",
+    "IngredientBuildNumber": "2.1.0.26-WW07"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.ISH-5.2.0.3713",
+    "IngredientName": "ISH",
+    "MarketingFeatureName": "Intel® Integrated Sensor Solution",
+    "IngredientBuildNumber": "5.2.0.3713"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.MSR Read Write Tool-1.0.0.1009",
+    "IngredientName": "MSRRW",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.0.1009"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.GPIO Configuration Tool-3.0.16",
+    "IngredientName": "GPIOConfigurationTool",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "3.0.16"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Platform BAT Loader-1.3",
+    "IngredientName": "PlatformBAT_Loader",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.3"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Microsoft EWDK-16299.15.RS3",
+    "IngredientName": "EWDK",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "16299.15.RS3"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Ice Lake.sw.firmware.CSME-13.0.0.1003_WW8.4_08.57",
+    "IngredientName": "CSME",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "13.0.0.1003_WW8.4_08.57"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Smart Sound Technology-10.24.00.1440-ICL",
+    "IngredientName": "ADSP",
+    "MarketingFeatureName": "Intel® Smart Sound Technology",
+    "IngredientBuildNumber": "10.24.00.1440-ICL"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.application.DPTF User Interface-8.4.10799.5917",
+    "IngredientName": "DPTF-UI",
+    "MarketingFeatureName": "Intel® Dynamic Platform Thermal Framework",
+    "IngredientBuildNumber": "8.4.10799.5917"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.ISH-5.0.0.3510",
+    "IngredientName": "ISH",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "5.0.0.3510"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Common Library-1.0.34.0",
+    "IngredientName": "CommonLibrary",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.34.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.os.Windows TH1-16299.15.ENT.RX64.214",
+    "IngredientName": "BaseWIM",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "16299.15.ENT.RX64.214"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Post Install Scripts-0.6.1",
+    "IngredientName": "InstallScripts",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "0.6.1"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Intel Method Evaluation Tool for ACPI-1.0.0.4",
+    "IngredientName": "IntelMethodEvaluationToolforACPI",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.0.4"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Integrated WiFi-CRWFW2065_99.0.35.1_P_WINT",
+    "IngredientName": "WIFI",
+    "MarketingFeatureName": "Intel® PROSet_Wireless WiFi Software",
+    "IngredientBuildNumber": "CRWFW2065_99.0.35.1_P_WINT"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Intel Online Connect-1.4.14.0",
+    "IngredientName": "IOC",
+    "MarketingFeatureName": "Intel® Online Connect",
+    "IngredientBuildNumber": "1.4.14.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Thunderbolt-ICLTBT_1.0.1.0_V4",
+    "IngredientName": "TBT",
+    "MarketingFeatureName": "Thunderbolt™",
+    "IngredientBuildNumber": "ICLTBT_1.0.1.0_V4"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.WWAN-UDE-9.1.146ANDMODEM-1742.00-V2",
+    "IngredientName": "WWAN",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "UDE-9.1.146ANDMODEM-1742.00-V2"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Python278-PYTHON-2.7.8-STANDALONE",
+    "IngredientName": "Python278",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "PYTHON-2.7.8-STANDALONE"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Thermal Analysis Tool - TAT-6.0.1027",
+    "IngredientName": "ThermalAnalysisTool",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "6.0.1027"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.application.Windows Crashlog Extraction Tool-2.0.9.0",
+    "IngredientName": "crashlog",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "2.0.9.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.Intel Software Lantern Rock-2.2.64.36415",
+    "IngredientName": "LanternRock",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "2.2.64.36415"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.IUnit-CNL-IUNIT-V0.1",
+    "IngredientName": "IUNIT",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "CNL-IUNIT-V0.1"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.RST Driver (dup)-17.0.0.1008_PRE-ALPHA",
+    "IngredientName": "RST",
+    "MarketingFeatureName": "Intel® Rapid Storage Technology (Intel® RST)",
+    "IngredientBuildNumber": "17.0.0.1008_PRE-ALPHA"
+  },
+  {
+    "IngredientFullyQualifedName": "fw.ifwi.sw.firmware.pmc-PATCH_V5",
+    "IngredientName": "PMC",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "PATCH_V5"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.application.Intel Authenticate-3.0.0.78V2",
+    "IngredientName": "authenticate",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "3.0.0.78V2"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.System Scope-3.1.1001",
+    "IngredientName": "SystemScope",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "3.1.1001"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Integrated Graphics-15.55.4959",
+    "IngredientName": "GFX",
+    "MarketingFeatureName": "Intel® Graphics Driver",
+    "IngredientBuildNumber": "15.55.4959"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.LAN-12.18.0.3",
+    "IngredientName": "LAN",
+    "MarketingFeatureName": "Intel® Network Connections",
+    "IngredientBuildNumber": "12.18.0.3"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.MPX Driver-1.0.0.12.RS3",
+    "IngredientName": "MPX",
+    "MarketingFeatureName": "Intel® Memory Protection Extensions (Intel® MPX)",
+    "IngredientBuildNumber": "1.0.0.12.RS3"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.WIMager-3.0.0.0",
+    "IngredientName": "WIMager",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "3.0.0.0"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.win-driver.Audio Codec Driver-REALTEK_HDA_6.0.1.8350",
+    "IngredientName": "AudioCodecHDA",
+    "MarketingFeatureName": "Intel® Smart Sound Technology",
+    "IngredientBuildNumber": "REALTEK_HDA_6.0.1.8350"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.application.SGX CP Application-1.0.51.1",
+    "IngredientName": "SGX4CP",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.0.51.1"
+  },
+  {
+    "IngredientFullyQualifedName": "platform.Common.sw.tool.TWS-1.62.1",
+    "IngredientName": "TWS",
+    "MarketingFeatureName": "",
+    "IngredientBuildNumber": "1.62.1"
+  }
+]

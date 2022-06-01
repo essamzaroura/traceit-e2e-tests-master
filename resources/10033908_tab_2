@@ -1,0 +1,167 @@
+[
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10040651",
+    "PlatformConfigName": "Alder Lake-I S 8C+8A GT1",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10040823",
+    "PlatformConfigName": "Alder Lake Refresh SB 8C+8A+1 Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10040650",
+    "PlatformConfigName": "Alder Lake-I P 2C+8A GT2",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10040652",
+    "PlatformConfigName": "Alder Lake-I S 6C+0A GT1",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10044017",
+    "PlatformConfigName": "Catlow with Alder Lake",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043772",
+    "PlatformConfigName": "Fishhawk Falls HEDT/MS WS Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043003",
+    "PlatformConfigName": "Alder Lake Refresh S 6+1 Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043494",
+    "PlatformConfigName": "Fishhawk Falls Expert Workstation Platform with Sapphire Rapids",
+    "PlatformConfigStatus": "Inactive",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043738",
+    "PlatformConfigName": "Fishhawk Falls Expert Workstation Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043775",
+    "PlatformConfigName": "Fishhawk Falls Expert Workstation with Sappire Rapids MCC (112L) Platform Config",
+    "PlatformConfigStatus": "Inactive",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043002",
+    "PlatformConfigName": "Alder Lake Refresh S 8C+8A+1 Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043548",
+    "PlatformConfigName": "Fishhawk Falls Expert Workstation Platform with Granite Rapids",
+    "PlatformConfigStatus": "Inactive",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10033159",
+    "PlatformConfigName": "Alder Lake S 6C+0A+1 Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10043771",
+    "PlatformConfigName": "Fishhawk Falls HEDT/MS WS with Sappire Rapids LCC Platform Config",
+    "PlatformConfigStatus": "Inactive",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  },
+  {
+    "SiProductId": "10033908",
+    "SiProductName": "Alder Lake PCH-S Product",
+    "SiProductStatus": "Active",
+    "PlatformConfigID": "10033156",
+    "PlatformConfigName": "Alder Lake S 8C+8A+1 Platform Configuration",
+    "PlatformConfigStatus": "Active",
+    "PlatformConfigL2ID": "",
+    "PlatformConfigL2Name": "",
+    "PlatformConfigL2Status": ""
+  }
+]

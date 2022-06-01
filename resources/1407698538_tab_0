@@ -1,0 +1,30 @@
+[
+  {
+    "IngredientId": "1407698538",
+    "IngredientName": "platform.Ice Lake.sw.firmware.CSME-13.0.0.1027_WW31.2_13.45",
+    "IngredientBuildNumber": "13.0.0.1027_WW31.2_13.45",
+    "MarketingFeatureName": "",
+    "KitName": "ICL-Y42-RS4",
+    "Title": "ICL-Y42-RS4-2018WW32.5.100",
+    "Quality": "bkc",
+    "CreatedAtDate": "2018-08-10 15:53:25.187000",
+    "PromotedAtDate": "2019-03-21 03:01:50.280000",
+    "QDF": "",
+    "ExecutionConfigName": "platform.Ice Lake.ICLY4+2-detach-MS-icl-y42-rs4",
+    "BoardsId": ""
+  },
+  {
+    "IngredientId": "1407698538",
+    "IngredientName": "platform.Ice Lake.sw.firmware.CSME-13.0.0.1027_WW31.2_13.45",
+    "IngredientBuildNumber": "13.0.0.1027_WW31.2_13.45",
+    "MarketingFeatureName": "",
+    "KitName": "ICL-Y42-RS4-B0",
+    "Title": "ICL-Y42-RS4-B0-2018WW32.5.90",
+    "Quality": "bkc",
+    "CreatedAtDate": "2018-08-10 15:52:37.547000",
+    "PromotedAtDate": "2019-03-21 03:00:00.633000",
+    "QDF": "Q2BN, Q2BQ, Q2BX, Q2NN, Q2NM, QQZC, QQZ9, QQZB, QQZF",
+    "ExecutionConfigName": "platform.Ice Lake.ICLY4+2-detach-MS-icl-y42-rs4-B0",
+    "BoardsId": ""
+  }
+]
